@@ -4,4 +4,4 @@ print("hello world")
 
 print("this is a random modification, just because")
 
-print("quién ganará yo o joaquín")
+print("Cannibal corpse es más loco que Annihilator")
